@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "FollowMap",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "61dc8a39-047e-4688-81b6-df7a519d99dc",
+            "actions": [
+                {
+                    "name": "MousePos",
+                    "type": "Value",
+                    "id": "9ae8fab3-8c5b-4a7d-9b70-c446a3ab62fa",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9ea3d45b-1412-46e9-9f7b-a9371576c9e8",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MousePos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
